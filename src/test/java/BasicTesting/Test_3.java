@@ -2,14 +2,7 @@ package BasicTesting;
 
 import org.testng.annotations.*;
 
-//This is newly added code
-//This is newly added code
-//This is newly added code
-//This is newly added code
-//This is newly added code
-//This is newly added code
-
-public class Test_2 {
+public class Test_3 {
 	
 	@BeforeTest
 	public void preSetup() {
